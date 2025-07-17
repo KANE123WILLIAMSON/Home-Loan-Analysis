@@ -25,6 +25,8 @@ What is the average number of dependents per applicant, and how does this impact
 Which demographic group (by gender, marital status, or education) has the lowest default risk?
 
 Are there any patterns between education, income, and loan repayment duration?
+# The Dashboard:-
+https://github.com/KANE123WILLIAMSON/Home-Loan-Analysis/blob/main/image.png
 # ** Answers 
 A clear majority of males are applying for the loan
 
@@ -37,3 +39,9 @@ Yes, Married applicants tend to apply for a loan more than single ones
 As we can see from the above bar graph majority of the loan applicants require 240-365 days to repay the loan
 
 We can see from the above bar graph that majority of the loan applicants do not have any dependents on them
+
+From the graph we can see that female, single not graduates have the lowest chances of loan default
+
+From the graph we can see that majorly people with salary between 0 to 10000 are applying for loans between 0 and 300000
+
+Loan Amount recovery for the major category of persons between salaries 0 and 30000 lies between 300 to 400 days
